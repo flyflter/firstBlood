@@ -1,4 +1,4 @@
-# firstblog
+# firstBlood
 
 > A Vue.js project
 
